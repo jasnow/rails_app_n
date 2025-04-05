@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 6b5c91d2af47c976b57d8a90d372b8ec8fb7c7bd
+  revision: 65014e2379546e25407e87e5b3a056e0460361c7
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -104,7 +104,7 @@ GEM
     base64 (0.2.0)
     benchmark (0.4.0)
     bigdecimal (3.1.9)
-    brakeman (7.0.1)
+    brakeman (7.0.2)
       racc
     builder (3.3.0)
     bundler-audit (0.9.2)
