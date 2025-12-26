@@ -33,7 +33,7 @@ gem "puma"
 group :development, :test do
   gem "brakeman"
   gem "standard"
-  gem "ruby_audit"
+#12/25/2025: BROKEN  gem "ruby_audit"
   gem "spektr"
 end
 
